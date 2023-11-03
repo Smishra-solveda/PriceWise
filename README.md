@@ -9,6 +9,12 @@ npm i react-responsive-carousel axios cheerio
 2) For api fetching
 3) For parsing and manipulating HTML and XML
 
+![Screenshot (348)](https://github.com/Smishra-solveda/PriceWise/assets/133752093/805cdd76-b149-4816-b2a3-72570df72d98)
+![Screenshot (350)](https://github.com/Smishra-solveda/PriceWise/assets/133752093/66efa833-3cd1-4fd6-b90b-a4465280be70)
+![Screenshot (349)](https://github.com/Smishra-solveda/PriceWise/assets/133752093/47518955-23b0-4412-9067-725b15448686)
+![Screenshot (351)](https://github.com/Smishra-solveda/PriceWise/assets/133752093/213a5e55-3875-456c-84fd-3ce37f706cce)
+![Screenshot (352)](https://github.com/Smishra-solveda/PriceWise/assets/133752093/4d29326c-b12b-4d9c-bc50-b15dfada8c99)
+
 
 # Technologies and Frameworks
 
